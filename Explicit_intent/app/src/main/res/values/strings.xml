@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Explicit_intent</string>
+    <string name="activity_2">Activity 2</string>
+    <string name="activity_3">Activity 3</string>
+    <string name="d_li_u_activity_3_s_n_m_y">Dữ liệu ở activity 3 sẽ nằm ở đây</string>
+    <string name="nh_p_t_n_c_a_b_n">Nhập tên của bạn</string>
+    <string name="welcome_to_new_activity">Welcome to new Activity</string>
+    <string name="enter_your_surname">enter your surname</string>
+    <string name="submit">Submit</string>
+</resources>

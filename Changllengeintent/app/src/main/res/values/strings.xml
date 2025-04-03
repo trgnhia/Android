@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Changllenge intent</string>
+    <string name="contacts_app">Contacts App</string>
+    <string name="enter_your_name">enter your name</string>
+    <string name="enter_your_phone_number">enter your phone number</string>
+    <string name="enter_your_website">enter your website</string>
+    <string name="enter_your_location">enter your Location</string>
+</resources>
